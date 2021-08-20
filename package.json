@@ -1,0 +1,11 @@
+{
+  "name": "exa-landing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mploux/exa-landing.git",
+  "author": "Marc-André Ploux <marcandre@ploux.fr>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "firebase deploy"
+  }
+}
